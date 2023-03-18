@@ -2,3 +2,4 @@ int a=10;
 int b=100;
 
 system.out.println(a*B);
+system.out.println(a+b);
