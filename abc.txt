@@ -1,1 +1,5 @@
-welcome to cjc
+int a=10;
+int b=20;
+int c=30;
+
+system.out.println(a*b*c);
